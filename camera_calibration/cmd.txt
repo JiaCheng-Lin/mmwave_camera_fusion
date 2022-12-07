@@ -1,0 +1,3 @@
+python vis_radarPt_to_img.py webcam --camid 0 --fp16 --fuse --save_result
+
+

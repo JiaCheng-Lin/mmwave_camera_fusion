@@ -1,0 +1,3 @@
+camera_calibration.py, camera_calibration_read_img.py: cal the intrinsic parameters from data (checkerboard img).
+
+testK.py: map/project 3d pts(fake) to image plane using intrinsic parameters (npy file you calculated before).
